@@ -101,7 +101,7 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "exclude": [
-    "ts-basics-and-type-basics",
+    "learned",
     "node_modules" // essa opção já vem como padrão
   ]
 }
